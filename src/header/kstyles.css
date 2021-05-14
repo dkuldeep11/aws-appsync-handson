@@ -1,0 +1,9 @@
+.header1 {
+    flex-grow: 1;
+}
+
+.header2 {
+    padding: 2px;
+    text-align: center;
+    background-color: #3ACBC9 !important;
+}

@@ -1,0 +1,16 @@
+a:link, a:visited, a:active, .k1 {
+    text-decoration: none !important;
+    color: white !important;
+    font-size: 25px !important;
+}
+
+.login {
+    position: absolute !important;
+    right: 150px !important;
+    font-size: 20px !important;
+}
+
+.logout {
+    position: absolute !important;
+    right: 100px !important;
+}

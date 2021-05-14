@@ -1,0 +1,31 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.form {
+    max-width: 330px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.form .form__custom-button {
+    margin-top: 50px;
+    width: 125px;
+    height: 35px;
+    margin-left: 100px;
+}
+
+.form .form__custom-input {
+    margin-top: 70px;
+}
+
+.form .form__custom-input-field {
+    width: 300px;
+    max-width: 500px;
+    margin-top: 30px;
+}
